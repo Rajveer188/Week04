@@ -1,7 +1,7 @@
 package com.tit.week04.day01.generics.warehouse_managment_system;
 
 //abstract class to represent warehouse items
-public class WarehouseItem {
+public abstract class WarehouseItem {
     //Attribute
     private String itemName;
     private int itemId;
